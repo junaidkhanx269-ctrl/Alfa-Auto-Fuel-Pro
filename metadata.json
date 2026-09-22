@@ -1,0 +1,6 @@
+{
+  "name": "Alfa Auto Fuel",
+  "description": "Exclusively designed client-obsessed web presence, profit engine, and state inspection booking platform for Alfa Auto Fuel at 4139 Washington St, Roslindale, MA 02131.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
